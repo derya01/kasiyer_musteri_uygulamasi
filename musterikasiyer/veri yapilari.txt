@@ -1,0 +1,2 @@
+2 tane kod örneğim bulunmaktadır. Bisinde array diğerinde ise Linked List kullandım. Girişte sizden müşteri mi yoksa kasa görevlisi mi olduğunuz sorulur sonrasında belirttiğiniz role göre sizden hangi işlemi yapmak istediğinizi sayı ile belirtmeniz istenir müşteri iseniz => sepete ürün ekleyip çıkartabilirsiniz . Kasa görevlisi iseniz => Listeye ürünleri ekleyip sileblirsiniz , ürünleri görebilirsiniz , kasaya müşteri alabilirsiniz ( queue veri yapısı ile belirli saniyelerde müşteriler kuyruğa girip çıkarlar). 
+
