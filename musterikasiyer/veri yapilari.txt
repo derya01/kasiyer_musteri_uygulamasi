@@ -1,7 +1,0 @@
-2 tane kod örneğim bulunmaktadır. Bisinde array diğerinde ise Linked List kullandım.Girişte sizden müşteri mi yoksa kasa görevlisi mi olduğunuz sorulur sonrasında belirttiğiniz role göre sizden hangi işlemi yapmak istediğinizi sayı ile belirtmeniz istenir müşteri iseniz => sepete ürün ekleyip çıkartabilirsiniz . Kasa görevlisi iseniz => Listeye ürünleri ekleyip sileblirsiniz , ürünleri görebilirsiniz , kasaya müşteri alabilirsiniz ( queue veri yapısı ile belirli saniyelerde müşteriler kuyruğa girip çıkarlar). 
-
-Sepete ürün ekleme ve çıkarma işlemleri için stack kullandım. Listeye ürün ekleme ve çıkarma işlemleri için array ve Linked List kullandım. Linked List kullanmanın benim için daha yararlı olduğunu söyleyebilirim çünkü array kullanırken belirttiğim alanın üzerine çıkamam ve belirttiğim değerin altında değer girersem de ürünleri listelediğimde boş değerlerim hep null olarak karşıma çıkacak bu durumu basit bir şekilde ayarlayarak düzelttim. Fakat Linked List te bunlara gerek kalmadı Linked list in array e göre daha esnek davrandığını söylebilirim. Linked Listin de array e göre daha karmaşık olduğunu söyleyebilirim çünkü arraylistte basitçe yapabileceğim işlemleri Linked Listte çeşitli metotlar kullanarak yaptım.
-
-Kodlarımın başında kullandığım classlar yer almaktadır. Kodlarımın orta kısmında ise kullandığım metotlar bulunmakta. En son kısımda ise main metodum yer almakta.
-
-Rabia Derya Okcularlı / 212802039
